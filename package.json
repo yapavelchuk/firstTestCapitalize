@@ -1,0 +1,23 @@
+{
+  "name": "firsttestcapitalize",
+  "type" : "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yapavelchuk/firstTestCapitalize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yapavelchuk/firstTestCapitalize/issues"
+  },
+  "homepage": "https://github.com/yapavelchuk/firstTestCapitalize#readme",
+  "tests": {
+    "run-test": "tests/capitalize.test.js"
+  }
+}
