@@ -1,6 +1,6 @@
 {
   "name": "firsttestcapitalize",
-  "type" : "module",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/yapavelchuk/firstTestCapitalize#readme",
   "tests": {
     "run-test": "tests/capitalize.test.js"
+  },
+  "dependencies": {
+    "chai": "^4.3.7"
   }
 }
